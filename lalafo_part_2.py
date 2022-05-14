@@ -7,7 +7,7 @@ from datetime import datetime
 """
 Вторая часть статьи: Парсер lalafo. Работа с API на сайте.
 По всем возникшим вопросам, можете писать в группу https://vk.com/happython
-Ссылка на статью: 
+Ссылка на статью: https://vk.com/@happython-parser-lalafo-rabota-s-api-saita
 """
 
 
